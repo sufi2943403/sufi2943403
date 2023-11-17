@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sufi2943403
+- 👋 Hi, I’m @sufian khan
 - 👀 I’m interested in css,html,bakend,frontend,microsoftoffice,c++,phyton
 - 🌱 I’m currently learning css,html,bakend,frontend,microsoftoffice,c++,phyton
 - 💞️ I’m looking to collaborate on ...css,html,bakend,frontend,microsoftoffice,c++,phyton
